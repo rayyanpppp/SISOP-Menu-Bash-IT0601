@@ -11,8 +11,6 @@ Kelas: IT-06-01
 * Menu 5 Informasi User
 
 
-#Dokumentasi Program  
-* Tampilan Keseluruhan menu
-  ![Alt Text]()
+# Dokumentasi Program 
 
 
